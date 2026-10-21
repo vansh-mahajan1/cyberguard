@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# CyberGuard scan history (may contain analyzed URLs and findings)
+cyberguard_history.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
